@@ -24,3 +24,6 @@
 // var tableName = document.getElementsByTagName("h1")
 // console.log(tableName[0].textContent = 132)
 
+// var customers = document.getElementById("customers")
+// var Alfreds = document.getElementById("Alfreds")
+
